@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>生字 on 考拉语文</title>
+    <title>首页 on 考拉语文</title>
     <link>/</link>
-    <description>Recent content in 生字 on 考拉语文</description>
+    <description>Recent content in 首页 on 考拉语文</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <lastBuildDate>Sat, 30 Mar 2024 08:06:22 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -355,7 +355,7 @@
       <pubDate>Sat, 30 Mar 2024 08:06:22 +0800</pubDate>
       
       <guid>/gs/g3b2/5/</guid>
-      <description>望天门山 唐·李白 天门中断楚江开， 碧水东流至此回。 两岸青山相对出， 孤帆一片日边来。 类别 三年级上册，第5首，共8首。上一首；下一首 词句注释 ⑴天门</description>
+      <description>元日 宋·王安石 爆竹声中一岁除， 春风送暖入屠苏。 千门万户曈曈日， 总把新桃换旧符。 类别 三年级下册，第5首，共9首。上一首；下一首 词句注释 ⑴元日：</description>
     </item>
     
     <item>
@@ -364,7 +364,7 @@
       <pubDate>Sat, 30 Mar 2024 08:06:22 +0800</pubDate>
       
       <guid>/gs/g3b2/6/</guid>
-      <description>饮湖上初晴后雨 宋·苏轼 水光潋滟晴方好， 山色空蒙雨亦奇。 欲把西湖比西子， 淡妆浓抹总相宜。 类别 三年级上册，第6首，共8首。上一首；下一首 词句注释</description>
+      <description>清明 唐·杜牧 清明时节雨纷纷， 路上行人欲断魂。 借问酒家何处有？ 牧童遥指杏花村。 类别 三年级下册，第6首，共9首。上一首；下一首 词句注释 ⑴清明：二</description>
     </item>
     
     <item>
@@ -373,7 +373,7 @@
       <pubDate>Sat, 30 Mar 2024 08:06:22 +0800</pubDate>
       
       <guid>/gs/g3b2/7/</guid>
-      <description>望洞庭 唐·刘禹锡 湖光秋月两相和， 潭面无风镜未磨。 遥望洞庭山水翠， 白银盘里一青螺。 类别 三年级上册，第7首，共8首。上一首；下一首 词句注释 1.洞</description>
+      <description>九月九日忆山东兄弟 唐·王维 独在异乡为异客， 每逢佳节倍思亲。 遥知兄弟登高处， 遍插茱萸少一人。 类别 三年级下册，第7首，共9首。上一首；下一首 词句</description>
     </item>
     
     <item>
@@ -382,7 +382,16 @@
       <pubDate>Sat, 30 Mar 2024 08:06:22 +0800</pubDate>
       
       <guid>/gs/g3b2/8/</guid>
-      <description>早发白帝城 唐·李白 朝辞白帝彩云间， 千里江陵一日还。 两岸猿声啼不住， 轻舟已过万重山。 类别 三年级上册，第8首，共8首。上一首；下一首 词句注释 ⑴发</description>
+      <description>滁州西涧 唐·韦应物 独怜幽草涧边生， 上有黄鹂深树鸣。 春潮带雨晚来急， 野渡无人舟自横。 类别 三年级下册，第8首，共9首。上一首；下一首 词句注释 ⑴滁</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/gs/g3b2/9/</link>
+      <pubDate>Sat, 30 Mar 2024 08:06:22 +0800</pubDate>
+      
+      <guid>/gs/g3b2/9/</guid>
+      <description>大林寺桃花 唐·白居易 人间四月芳菲尽， 山寺桃花始盛开。 长恨春归无觅处， 不知转入此中来。 类别 三年级下册，第8首，共9首。上一首；下一首 词句注释 ⑴</description>
     </item>
     
     <item>
@@ -509,6 +518,15 @@
       
       <guid>/gushi/</guid>
       <description>小学古诗 一年级上册： 咏鹅（唐·骆宾王） 江南（汉·无名氏） 画（汉·无名氏） 悯农 其一（唐·李绅） 古朗月行（唐·李白） 风（唐·李峤） 一年级下册： 春</description>
+    </item>
+    
+    <item>
+      <title>生字</title>
+      <link>/shengzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/shengzi/</guid>
+      <description>小学生字 一年级： 上册： 100个 下册： 250个 二年级： 上册： 350个 下册： 300个 三年级： 上册： 300个 下册： 300个 四年级： 上册： 200个 下</description>
     </item>
     
   </channel>
